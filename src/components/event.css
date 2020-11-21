@@ -1,0 +1,16 @@
+.Event {
+  position: fixed;
+  width: 50%;
+  height: 80%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  box-shadow: 10px 5px 5px black;
+   background-color: pink;
+   border-radius: 20px
+}
+.Event_inner {
+    padding-top: 40px;
+}
